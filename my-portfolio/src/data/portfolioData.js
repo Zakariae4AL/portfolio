@@ -2,7 +2,7 @@ export const portfolioData = {
   personalInfo: {
     name: "Zakariae AHMEDLAAZIZ",
     title: {
-      en: "Computer Engineer & DevOps Junior",
+      en: "Computer Engineer",
       fr: "Ingénieur informatique & junior DevOps"
     },
     location: { en: "Casablanca, Morocco", fr: "Casablanca, Maroc" },
